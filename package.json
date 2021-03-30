@@ -1,0 +1,23 @@
+{
+  "name": "dogger-logger",
+  "author": "James Grams <james@game103.net>",
+  "version": "1.0.0",
+  "description": "Dogger Logger",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": ">= 10.10.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
