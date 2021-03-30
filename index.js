@@ -24,4 +24,4 @@ app.post("/log", (request, response) => {
     }
 });
 
-app.listen(process.env.PORT ? process.env.port : DEFAULT_PORT);
+app.listen(process.env.PORT ? process.env.PORT : DEFAULT_PORT);
